@@ -17,5 +17,4 @@ Component    | Quantity     | Cost per Unit
 [T Bolt and Nut](https://www.mcmaster.com/47065T139/) | 6 | $1.85
 [NEMA 17 Stepper Motor](https://www.omc-stepperonline.com/nema-17-stepper-motor/)| 1 | $9.52
 [Shaft Coupler (5mm to 8mm)](https://www.amazon.com/Ogrmar-Flexible-Couplings-Printer-Machine/dp/B074NSDHV3/ref=asc_df_B074NSDHV3/?tag=hyprod-20&linkCode=df0&hvadid=241981136288&hvpos=&hvnetw=g&hvrand=13981817668903659503&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9013196&hvtargid=pla-601968284592&psc=1) | 1 | $3.00
------------- | ------------ | ------------
-Total Cost |  | $67.40
+**Total Cost |  | $67.40**
