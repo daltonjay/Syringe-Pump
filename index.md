@@ -17,5 +17,5 @@ Further improvements can be made by using a threaded rod with a lower pitch.
 ### Max Flow Rate
 The max flow rate of our designed syringe pump is limited by a few key factors. (1) The speed and step size of the NEMA 17 motor. Particularly, the max flow rate is inhibited by the occurrence of ringing (i.e., the internal oscillations of the magnets within motor due to momentum). Ringing occurs when the motor is wired to make full steps. While this would aid in achieving the highest max flow rate, it makes the motor inefficient and very noisy. (2) The pitch of the threaded rod. The greater the pitch, the further the syringe pump moves in one rotation of the motor, and the faster the solution is extruded. (3) The properties of the material in the syringe pump. For example, more viscious fluids would be more resistive to extrusion or non-Newtonian fluids would counter any rapid movements by the syringe plunger.  
 
-### Happy building!!
+## Happy building!!
 ![Syringe Pump Success](/Syringe-Pump/Assets/IMG_3467.jpg)
