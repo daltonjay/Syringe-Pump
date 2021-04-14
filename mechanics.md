@@ -1,4 +1,9 @@
-# Mechanical Details for Constructing the Syringe Pump
+# Mechanical Details for Construction
+
+- [Home](/Syringe-Pump/index)
+- [**Mechanics**](/Syringe-Pump/mechanics)
+- [Electronics](/Syringe-Pump/electrical)
+- [Code](/Syringe-Pump/code)
 
 ## Assembly
 ![Mechanical Assembly of Syringe Pump](/Syringe-Pump/Assets/IMG_3468.jpg)
