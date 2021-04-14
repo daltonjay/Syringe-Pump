@@ -1,5 +1,10 @@
 # Code for Syringe Pump Operation
 
+- [Home](/Syringe-Pump/index)
+- [Mechanics](/Syringe-Pump/mechanics)
+- [Electronics](/Syringe-Pump/electrical)
+- [**Code**](/Syringe-Pump/code)
+
 The code below works for Arduino Uno or Mega. Load the code in the Arduino IDE to operate the syringe pump.
 Code for the retraction of the syringe pump is commented out, but may be used by removing // characters in front of the line of code you are interested in.
 
