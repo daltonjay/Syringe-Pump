@@ -1,3 +1,3 @@
 # How to Build a Syringe Pump
 
-![Syringe Pump Success](/Syringe-Pump/Assets/IMG_3467)
+![Syringe Pump Success](/Syringe-Pump/Assets/IMG_3467.jpg)
